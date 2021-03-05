@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1603002835 source:c:\users\elsa7er\desktop\c compiler\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1602791984 c:\users\elsa7er\desktop\c compiler\funcprototypes.h
+
+1602817825 source:c:\users\elsa7er\desktop\c compiler\tokensparser.c
+	"FuncPrototypes.h"
+
+1603004483 source:c:\users\elsa7er\desktop\c compiler\support.c
+	<stdio.h>
+	"support.h"
+
+1603002658 c:\users\elsa7er\desktop\c compiler\support.h
+
+1603004401 source:c:\users\elsa7er\desktop\c compiler\linechecker.c
+	"lineChecker.h"
+
+1602989051 c:\users\elsa7er\desktop\c compiler\linechecker.h
+
+1602987546 source:c:\users\elsa7er\desktop\c compiler\lineparsar.c
+	"lineParsar.h"
+
+1602987276 c:\users\elsa7er\desktop\c compiler\lineparsar.h
+
